@@ -1,0 +1,7 @@
+{
+  "files.exclude": {
+    "node_modules": true,
+    "desktop.ini": true
+  },
+  "prettier.printWidth": 88
+}
